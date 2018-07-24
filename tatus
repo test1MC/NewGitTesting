@@ -1,0 +1,211 @@
+[33mcommit dd565acc113d91d3501f43b59256fa818ed19203[m[33m ([m[1;36mHEAD -> [m[1;32mDev[m[33m)[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Tue Jul 24 08:44:30 2018 -0700
+
+    New content added to topic
+
+[33mcommit a3f3189785216eea6bffe72968b8b13d98efb76d[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Tue Jul 24 08:43:51 2018 -0700
+
+    Commit of Content/Test Multiple Comits/SloBro.htm
+
+[33mcommit 3c75deafafdc9c1ef809bbf0477dcdd114f94611[m[33m ([m[1;31morigin/Dev[m[33m)[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Tue Jul 24 08:37:52 2018 -0700
+
+    Commit of Content/Test Multiple Comits/Mankey.htm,Content/Test Multiple Comits/Rat.htm
+
+[33mcommit 5b90582bc04698028a62fa235e53e2c1efb68c63[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Tue Jul 24 08:37:10 2018 -0700
+
+    Commit of Content/Test Multiple Comits/Slugma.htm
+
+[33mcommit 1c90db36fd7cee86309f4db5ef82c8270513f4e4[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Tue Jul 24 08:36:14 2018 -0700
+
+    Commit of Content/NewFolder/NewTopic5.htm
+
+[33mcommit 0da39fc562dd0683789084a9bfcbf2e0262aa0d4[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Tue Jul 24 08:34:57 2018 -0700
+
+    Commit of Content/NewFolder/NewTopic5.htm
+
+[33mcommit 69908b7614003263c95a9cf6c02631f2acb78a75[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: fc6180f 822e0b7
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Mon Jul 23 09:44:56 2018 -0700
+
+    Merge branch 'Dev' of git@github.com:test1MC/NewGitTesting.git
+
+[33mcommit 822e0b74d2bc9476fc4240f3e656f88d55f50f97[m[33m ([m[1;31morigin/MachineA[m[33m, [m[1;32mMachineA[m[33m)[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Mon Jul 23 09:20:45 2018 -0700
+
+    Commit of Content/Machine A/Regice.htm
+
+[33mcommit fc6180f8fd29d480a10887c0517ef59f2021f25b[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Mon Jul 23 09:20:38 2018 -0700
+
+    Commit of Content/Machine B/Registeele.htm
+
+[33mcommit 7843fcb75191f802bdd45b030355d5c8a446a727[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Mon Jul 23 08:15:39 2018 -0700
+
+    Image added
+
+[33mcommit 4e6d991979824a70bfe19d8fea08c9aee75fec0c[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Mon Jul 23 08:04:57 2018 -0700
+
+    Commit of Content/Another folder/Pikachu.htm
+
+[33mcommit a567aa7a67e067c68d96ff19bddc66cf84b48103[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Mon Jul 23 08:04:06 2018 -0700
+
+    Initial commit by Flare
+
+[33mcommit 5758da7a58fb2da93254264fbc6461ff0a1c9996[m
+Merge: 026fc16 315464f
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Fri Jul 20 13:47:04 2018 -0700
+
+    Merge branch 'Dev' of git@github.com:test1MC/NewGitTesting.git
+
+[33mcommit 026fc1619cc98f64167083dd59d761487276d5dd[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Fri Jul 20 13:46:47 2018 -0700
+
+    more content added
+
+[33mcommit 315464fbbebafcfde87736ac3342677f6d3ebab9[m
+Merge: af0a0d9 8b04de7
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 13:26:40 2018 -0700
+
+    Merge branch 'Dev' of git@github.com:test1MC/NewGitTesting.git
+
+[33mcommit 8b04de7b2f5fba6cfd1b11102b1c3b8c116c6912[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Fri Jul 20 13:26:20 2018 -0700
+
+    content from imported project (User B)
+
+[33mcommit af0a0d98c88303d916abbb199d7779cbaed1df79[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 13:24:14 2018 -0700
+
+    more content added
+
+[33mcommit 12505563d39a8867268ac0a2fef1a90f8573f027[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 13:23:49 2018 -0700
+
+    Commit of Content/Another folder/Dragonite.htm
+
+[33mcommit b28a532a749fc048f1b7f68c2b4ba7b1d328922e[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 13:08:13 2018 -0700
+
+    File was bad- Deleted
+
+[33mcommit a710bcf08053824c7e9274a836e87a40b0afeefc[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 13:07:29 2018 -0700
+
+    Commit of Content/Another folder/Mew.htm
+
+[33mcommit 73634ed4c51210753b14da065835d88c1d6db550[m
+Merge: 626e3e8 a6ea404
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Fri Jul 20 13:06:48 2018 -0700
+
+[33mcommit 626e3e8716fbc5e48fadaa47c3f8e9f8a1a6d0e4[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Fri Jul 20 13:05:58 2018 -0700
+
+    Commit of Content/Another folder/Mew.htm
+
+[33mcommit a6ea404fc2de33770327a5d9825d3721d586dc15[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 13:05:32 2018 -0700
+
+    Commit of Content/Another folder/Mew.htm
+
+[33mcommit 5a0e352e56e5d3758cfc5a96b338b27df137d511[m
+Author: Donny Spenceroni <dspencer@madcapsoftware.com>
+Date:   Fri Jul 20 10:45:51 2018 -0700
+
+    Mew added by Test1
+
+[33mcommit b0311851a3f7fb91915f9792b22cc7e4f7b1e038[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 10:30:40 2018 -0700
+
+    Commit of Content/Another folder/Charmander.htm
+
+[33mcommit 3a875c611cb2cc70f9b99c48647cfd6e413b3c83[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 10:29:53 2018 -0700
+
+    Snorlax added
+
+[33mcommit d4cda0ae87a07d99ecd7fd8e757fac4a45020c5c[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 10:29:40 2018 -0700
+
+    Dragonite added
+
+[33mcommit 9ccde140e20f07a35abe9625764319445134bf94[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 10:29:26 2018 -0700
+
+    Charmander added
+
+[33mcommit ad18fb993b0b7a0ef72c47c03a53bb96e7c04196[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 09:31:39 2018 -0700
+
+    Commit of Content/NewFolder/NewTopic5.htm
+
+[33mcommit c5f7e31a763d23dcd9c60012fbbb2daf2ec38c89[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 09:26:10 2018 -0700
+
+    Added new topic
+
+[33mcommit 5375aa62fa2d67045ad6903bf3fc717232c3e751[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 09:25:56 2018 -0700
+
+    Modified a topic
+
+[33mcommit 5411b3a16e3d7f4784331858b9b4710c7469778d[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 09:25:03 2018 -0700
+
+    Commit of Content/NewFolder/NewTopic5.htm,Content/NewFolder/NewTopic6.htm
+
+[33mcommit 208713b0d548f2fac4a61ef02dced04c7f859669[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 09:24:20 2018 -0700
+
+    Commit of Content/NewFolder/NewTopic5.htm,Content/NewFolder/NewTopic6.htm
+
+[33mcommit ab3f66837f6ebff0d0d004f0da8367ef6556adc2[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 08:17:47 2018 -0700
+
+    New folder added to the develope branch
+
+[33mcommit 8eb3e95bf068a57f5c58b5a1aafd80e4e277dc39[m
+Author: dspencer <cbs@cbs.com>
+Date:   Fri Jul 20 08:15:06 2018 -0700
+
+    Initial Check-in.
